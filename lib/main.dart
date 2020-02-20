@@ -64,6 +64,6 @@ class TextCenterWidget extends StatelessWidget {
   Widget build(BuildContext context) {
     return Center(
         child: new Text("Hey there",
-            style: TextStyle(/*fontWeight: FontWeight.bold,*/ fontSize: 25.0)));
+            style: TextStyle(fontSize: 25.0)));
   }
 }
